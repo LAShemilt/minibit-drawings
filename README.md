@@ -1,5 +1,6 @@
+## Introduction
 
-> Open this page at [https://lashemilt.github.io/minibit-drawings/](https://lashemilt.github.io/minibit-drawings/)
+A program to draw a robot figure using a 4tronix Minibit robot
 
 ## Use as Extension
 
